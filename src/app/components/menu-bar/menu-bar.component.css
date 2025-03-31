@@ -34,5 +34,9 @@
 .menu-bar__item > ul > li > a {
   text-decoration: none;
   color: rgb(9, 9, 9);
-  
+  padding: 0.3rem;
+}
+.menu-bar__item > ul > li > a:hover {
+  color: blue;
+  font-weight: bold;
 }
