@@ -1,11 +1,11 @@
 .home__container {
   width: 90%;
+  height: 100vh;
   margin: auto;
-  padding-top: 50px;
+  padding-top: 5rem;
   display: flex;
 
-  justify-content: space-between;
-  align-items: baseline;
+  justify-content:  center;
   flex-wrap: wrap;
-  border: 2px red solid;
+
 }
